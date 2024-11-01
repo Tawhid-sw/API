@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "price": 10000,
+    "country": "Bangladesh",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "imageUrl": "https://i.ibb.co.com/6Wr2R25/licensed-image.webp"
+  },
+  {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "role": "Batsman",
+    "price": 12000,
+    "country": "Bangladesh",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "imageUrl": "https://i.ibb.co.com/YBt8VGf/301403-4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "price": 9000,
+    "country": "Bangladesh",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "imageUrl": "https://i.ibb.co.com/M1D62MY/prothomalo-bangla-2021-03-e34f91b0-6773-4a53-a2e0-15dff0d0703f-939098-01-02.webp"
+  },
+  {
+    "id": 4,
+    "name": "Mushfiqur Rahim",
+    "role": "Wicketkeeper-Batsman",
+    "price": 1000,
+    "country": "Bangladesh",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "imageUrl": "https://i.ibb.co.com/txcz6vd/mushfiqur-rahim-15-03-2022.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mahmudullah Riyad",
+    "role": "All-rounder",
+    "price": 800,
+    "country": "Bangladesh",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "imageUrl": "https://i.ibb.co.com/kX1yfWX/274021-4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Liton Das",
+    "role": "Batsman",
+    "price": 700,
+    "country": "Bangladesh",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "imageUrl": "https://i.ibb.co.com/NnQcL3Y/litton-das-15-03-2022.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Soumya Sarkar",
+    "role": "All-rounder",
+    "price": 6000,
+    "country": "Bangladesh",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "imageUrl": "https://i.ibb.co.com/bLvnPvJ/soumya-sarkar-15-03-2022.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Taskin Ahmed",
+    "role": "Bowler",
+    "price": 4500,
+    "country": "Bangladesh",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "imageUrl": "https://i.ibb.co.com/Nt2g4mK/Taskin-Ahmed-5.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Afif Hossain",
+    "role": "All-rounder",
+    "price": 3500,
+    "country": "Bangladesh",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "imageUrl": "https://i.ibb.co.com/MRt8q7M/1661688281.jpg"
+  }
+]
