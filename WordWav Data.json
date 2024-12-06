@@ -1,0 +1,2022 @@
+{
+  "lesson1": [
+    {
+      "id": "word001",
+      "word": "こんにちは",
+      "pronunciation": "konnichiwa",
+      "meaning": "hello",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to greet someone in the afternoon.",
+      "example": "こんにちは！お元気ですか？ (Konnichiwa! Ogenki desu ka?) - Hello! How are you?"
+    },
+    {
+      "id": "word002",
+      "word": "ありがとう",
+      "pronunciation": "arigatou",
+      "meaning": "thank you",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to express gratitude in informal settings.",
+      "example": "ありがとう、手伝ってくれて！ (arigatou, tetsudatte kurete!) - Thank you for helping me!"
+    },
+    {
+      "id": "word003",
+      "word": "さようなら",
+      "pronunciation": "sayounara",
+      "meaning": "goodbye",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to say goodbye.",
+      "example": "さようなら！ (Sayounara!) - Goodbye!"
+    },
+    {
+      "id": "word004",
+      "word": "おはよう",
+      "pronunciation": "ohayou",
+      "meaning": "good morning",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used in the morning as a greeting.",
+      "example": "おはようございます！ (Ohayou gozaimasu!) - Good morning!"
+    },
+    {
+      "id": "word005",
+      "word": "ありがとうございまし",
+      "pronunciation": "arigatou gozaimasu",
+      "meaning": "thank you very much",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to express deeper gratitude in formal settings.",
+      "example": "本当にありがとうございます！ (Hontou ni arigatou gozaimasu!) - Thank you very much!"
+    },
+    {
+      "id": "word006",
+      "word": "すみません",
+      "pronunciation": "sumimasen",
+      "meaning": "excuse me / I'm sorry",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to get someone's attention or apologize.",
+      "example": "すみません、ちょっと失礼します。 (Sumimasen, chotto shitsurei shimasu.) - Excuse me, I’m sorry."
+    },
+    {
+      "id": "word007",
+      "word": "お願いします",
+      "pronunciation": "onegai shimasu",
+      "meaning": "please",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used when asking for something politely.",
+      "example": "これをお願いします。 (Kore wo onegai shimasu.) - Please do this."
+    },
+    {
+      "id": "word008",
+      "word": "はい",
+      "pronunciation": "hai",
+      "meaning": "yes",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to express affirmation.",
+      "example": "はい、わかりました。 (Hai, wakarimashita.) - Yes, I understand."
+    },
+    {
+      "id": "word009",
+      "word": "いいえ",
+      "pronunciation": "iie",
+      "meaning": "no",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to express negation.",
+      "example": "いいえ、違います。 (Iie, chigaimasu.) - No, that's not correct."
+    },
+    {
+      "id": "word010",
+      "word": "お元気ですか?",
+      "pronunciation": "ogenki desu ka?",
+      "meaning": "How are you?",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to ask about someone's well-being.",
+      "example": "お元気ですか？ (Ogenki desu ka?) - How are you?"
+    },
+    {
+      "id": "word011",
+      "word": "今",
+      "pronunciation": "ima",
+      "meaning": "now",
+      "part_of_speech": "adverb",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to the current time.",
+      "example": "今、何時ですか？ (Ima, nanji desu ka?) - What time is it now?"
+    },
+    {
+      "id": "word012",
+      "word": "明日",
+      "pronunciation": "ashita",
+      "meaning": "tomorrow",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to the following day.",
+      "example": "明日会いましょう！ (Ashita aimashou!) - Let’s meet tomorrow!"
+    },
+    {
+      "id": "word013",
+      "word": "昨日",
+      "pronunciation": "kinou",
+      "meaning": "yesterday",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to the day before today.",
+      "example": "昨日何をしましたか？ (Kinou nani wo shimashita ka?) - What did you do yesterday?"
+    },
+    {
+      "id": "word014",
+      "word": "お願いします",
+      "pronunciation": "onegai shimasu",
+      "meaning": "please",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to make a polite request.",
+      "example": "これをお願いします。 (Kore wo onegai shimasu.) - Please do this."
+    },
+    {
+      "id": "word015",
+      "word": "どうぞ",
+      "pronunciation": "douzo",
+      "meaning": "please (offering something)",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used when offering something to someone.",
+      "example": "どうぞ、お先にどうぞ。 (Douzo, osaki ni douzo.) - Please, go ahead."
+    },
+    {
+      "id": "word016",
+      "word": "お疲れ様",
+      "pronunciation": "otsukaresama",
+      "meaning": "good job / thank you for your hard work",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to acknowledge someone's effort or hard work.",
+      "example": "お疲れ様でした！ (Otsukaresama deshita!) - Good job!"
+    },
+    {
+      "id": "word017",
+      "word": "じゃね",
+      "pronunciation": "ja ne",
+      "meaning": "see you",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to say goodbye casually.",
+      "example": "じゃね、またね！ (Ja ne, mata ne!) - See you, later!"
+    },
+    {
+      "id": "word018",
+      "word": "すみません",
+      "pronunciation": "sumimasen",
+      "meaning": "excuse me / I'm sorry",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to get someone’s attention or apologize.",
+      "example": "すみません、道を教えてください。 (Sumimasen, michi wo oshiete kudasai.) - Excuse me, could you tell me the way?"
+    },
+    {
+      "id": "word019",
+      "word": "どうも",
+      "pronunciation": "doumo",
+      "meaning": "thanks / hello",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used casually for thanking or greeting.",
+      "example": "どうもありがとう！ (Doumo arigatou!) - Thanks a lot!"
+    },
+    {
+      "id": "word020",
+      "word": "よろしくお願いします",
+      "pronunciation": "yoroshiku onegaishimasu",
+      "meaning": "nice to meet you / please take care of it",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "when_to_say": "Used to make a polite request or greet someone for the first time.",
+      "example": "よろしくお願いします！ (Yoroshiku onegaishimasu!) - Nice to meet you!"
+    }
+  ],
+  "lesson2": [
+    {
+      "id": "word021",
+      "word": "名前",
+      "pronunciation": "namae",
+      "meaning": "name",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when asking or referring to someone's name.",
+      "example": "あなたの名前は何ですか？ (Anata no namae wa nan desu ka?) - What is your name?"
+    },
+    {
+      "id": "word022",
+      "word": "出身",
+      "pronunciation": "shusshin",
+      "meaning": "hometown / origin",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when talking about someone's place of origin.",
+      "example": "あなたはどこから来ましたか？ (Anata wa doko kara kimashita ka?) - Where are you from?"
+    },
+    {
+      "id": "word023",
+      "word": "年齢",
+      "pronunciation": "nenrei",
+      "meaning": "age",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when asking or talking about someone's age.",
+      "example": "あなたの年齢は何ですか？ (Anata no nenrei wa nan desu ka?) - How old are you?"
+    },
+    {
+      "id": "word024",
+      "word": "職業",
+      "pronunciation": "shokugyou",
+      "meaning": "occupation",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to ask or talk about someone's job.",
+      "example": "あなたの職業は何ですか？ (Anata no shokugyou wa nan desu ka?) - What is your occupation?"
+    },
+    {
+      "id": "word025",
+      "word": "住んでいる",
+      "pronunciation": "sundeiru",
+      "meaning": "to live (in)",
+      "part_of_speech": "verb",
+      "difficulty": "easy",
+      "when_to_say": "Used when talking about where someone lives.",
+      "example": "私は東京に住んでいます。 (Watashi wa Tokyo ni sundeimasu.) - I live in Tokyo."
+    },
+    {
+      "id": "word026",
+      "word": "学校",
+      "pronunciation": "gakkou",
+      "meaning": "school",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when referring to school.",
+      "example": "私は学校に通っています。 (Watashi wa gakkou ni kayotteimasu.) - I go to school."
+    },
+    {
+      "id": "word027",
+      "word": "好き",
+      "pronunciation": "suki",
+      "meaning": "like / favorite",
+      "part_of_speech": "adjective",
+      "difficulty": "easy",
+      "when_to_say": "Used to express like or preference.",
+      "example": "私は音楽が好きです。 (Watashi wa ongaku ga suki desu.) - I like music."
+    },
+    {
+      "id": "word028",
+      "word": "家族",
+      "pronunciation": "kazoku",
+      "meaning": "family",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when talking about family.",
+      "example": "私の家族は四人です。 (Watashi no kazoku wa yonnin desu.) - My family has four people."
+    },
+    {
+      "id": "word029",
+      "word": "友達",
+      "pronunciation": "tomodachi",
+      "meaning": "friend",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when talking about friends.",
+      "example": "彼は私の友達です。 (Kare wa watashi no tomodachi desu.) - He is my friend."
+    },
+    {
+      "id": "word030",
+      "word": "日本",
+      "pronunciation": "nihon",
+      "meaning": "Japan",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when talking about Japan.",
+      "example": "私は日本に行ったことがあります。 (Watashi wa Nihon ni itta koto ga arimasu.) - I have been to Japan."
+    },
+    {
+      "id": "word031",
+      "word": "趣味",
+      "pronunciation": "shumi",
+      "meaning": "hobby",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when talking about someone's hobby.",
+      "example": "私の趣味は読書です。 (Watashi no shumi wa dokusho desu.) - My hobby is reading."
+    },
+    {
+      "id": "word032",
+      "word": "大好き",
+      "pronunciation": "daisuki",
+      "meaning": "love (for something)",
+      "part_of_speech": "adjective",
+      "difficulty": "easy",
+      "when_to_say": "Used to express strong affection for something.",
+      "example": "私は映画が大好きです。 (Watashi wa eiga ga daisuki desu.) - I love movies."
+    },
+    {
+      "id": "word033",
+      "word": "結婚",
+      "pronunciation": "kekkon",
+      "meaning": "marriage",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when talking about marriage.",
+      "example": "彼は結婚しています。 (Kare wa kekkon shiteimasu.) - He is married."
+    },
+    {
+      "id": "word034",
+      "word": "独身",
+      "pronunciation": "dokushin",
+      "meaning": "single",
+      "part_of_speech": "adjective",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to someone who is unmarried.",
+      "example": "私は独身です。 (Watashi wa dokushin desu.) - I am single."
+    },
+    {
+      "id": "word035",
+      "word": "兄弟",
+      "pronunciation": "kyoudai",
+      "meaning": "siblings",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used when referring to brothers or siblings.",
+      "example": "私は兄弟が三人います。 (Watashi wa kyoudai ga sannin imasu.) - I have three siblings."
+    },
+    {
+      "id": "word036",
+      "word": "子供",
+      "pronunciation": "kodomo",
+      "meaning": "child",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to children.",
+      "example": "私には二人の子供がいます。 (Watashi ni wa futari no kodomo ga imasu.) - I have two children."
+    },
+    {
+      "id": "word037",
+      "word": "来年",
+      "pronunciation": "rainen",
+      "meaning": "next year",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to the following year.",
+      "example": "来年日本に行きます。 (Rainen Nihon ni ikimasu.) - I am going to Japan next year."
+    },
+    {
+      "id": "word038",
+      "word": "大学",
+      "pronunciation": "daigaku",
+      "meaning": "university",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to university or college.",
+      "example": "私は大学に通っています。 (Watashi wa daigaku ni kayotteimasu.) - I attend university."
+    },
+    {
+      "id": "word039",
+      "word": "電話番号",
+      "pronunciation": "denwa bangou",
+      "meaning": "phone number",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to ask for or give someone's phone number.",
+      "example": "あなたの電話番号は何ですか？ (Anata no denwa bangou wa nan desu ka?) - What is your phone number?"
+    },
+    {
+      "id": "word040",
+      "word": "時間",
+      "pronunciation": "jikan",
+      "meaning": "time",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "when_to_say": "Used to refer to time.",
+      "example": "今何時ですか？ (Ima nanji desu ka?) - What time is it now?"
+    }
+  ],
+  "lesson3": [
+    {
+      "id": "word041",
+      "word": "一",
+      "pronunciation": "ichi",
+      "meaning": "one",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number one.",
+      "example": "私は一人です。 (Watashi wa hitori desu.) - I am alone."
+    },
+    {
+      "id": "word042",
+      "word": "二",
+      "pronunciation": "ni",
+      "meaning": "two",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number two.",
+      "example": "私は二つのリンゴを持っています。 (Watashi wa futatsu no ringo o motteimasu.) - I have two apples."
+    },
+    {
+      "id": "word043",
+      "word": "三",
+      "pronunciation": "san",
+      "meaning": "three",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number three.",
+      "example": "三人の友達がいます。 (Sannin no tomodachi ga imasu.) - I have three friends."
+    },
+    {
+      "id": "word044",
+      "word": "四",
+      "pronunciation": "shi / yon",
+      "meaning": "four",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number four.",
+      "example": "私は四つの本を持っています。 (Watashi wa yotsu no hon o motteimasu.) - I have four books."
+    },
+    {
+      "id": "word045",
+      "word": "五",
+      "pronunciation": "go",
+      "meaning": "five",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number five.",
+      "example": "五つのオレンジがあります。 (Itsutsu no orenji ga arimasu.) - There are five oranges."
+    },
+    {
+      "id": "word046",
+      "word": "六",
+      "pronunciation": "roku",
+      "meaning": "six",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number six.",
+      "example": "六人の学生がいます。 (Roku-nin no gakusei ga imasu.) - There are six students."
+    },
+    {
+      "id": "word047",
+      "word": "七",
+      "pronunciation": "shichi / nana",
+      "meaning": "seven",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number seven.",
+      "example": "七つの質問があります。 (Nanatsu no shitsumon ga arimasu.) - There are seven questions."
+    },
+    {
+      "id": "word048",
+      "word": "八",
+      "pronunciation": "hachi",
+      "meaning": "eight",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number eight.",
+      "example": "八人の先生がいます。 (Hachinin no sensei ga imasu.) - There are eight teachers."
+    },
+    {
+      "id": "word049",
+      "word": "九",
+      "pronunciation": "kyuu / ku",
+      "meaning": "nine",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number nine.",
+      "example": "九つの箱があります。 (Kokonotsu no hako ga arimasu.) - There are nine boxes."
+    },
+    {
+      "id": "word050",
+      "word": "十",
+      "pronunciation": "juu",
+      "meaning": "ten",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number ten.",
+      "example": "十人の学生がいます。 (Juu-nin no gakusei ga imasu.) - There are ten students."
+    },
+    {
+      "id": "word051",
+      "word": "百",
+      "pronunciation": "hyaku",
+      "meaning": "hundred",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number hundred.",
+      "example": "百円のジュースを買いました。 (Hyaku en no juusu o kaimashita.) - I bought a 100-yen juice."
+    },
+    {
+      "id": "word052",
+      "word": "千",
+      "pronunciation": "sen",
+      "meaning": "thousand",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number thousand.",
+      "example": "千円の財布を持っています。 (Sen en no saifu o motteimasu.) - I have a 1000-yen wallet."
+    },
+    {
+      "id": "word053",
+      "word": "万",
+      "pronunciation": "man",
+      "meaning": "ten thousand",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to represent the number ten thousand.",
+      "example": "この本は万冊売れています。 (Kono hon wa man-satsu ureteimasu.) - This book has sold ten thousand copies."
+    },
+    {
+      "id": "word054",
+      "word": "半",
+      "pronunciation": "han",
+      "meaning": "half",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to half of something.",
+      "example": "今は三時半です。 (Ima wa sanji han desu.) - It is half-past three."
+    },
+    {
+      "id": "word055",
+      "word": "何",
+      "pronunciation": "nan",
+      "meaning": "how many",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to ask how many or what number.",
+      "example": "何人ですか？ (Nannin desu ka?) - How many people?"
+    },
+    {
+      "id": "word056",
+      "word": "全部",
+      "pronunciation": "zenbu",
+      "meaning": "all, everything",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used when referring to all things or people.",
+      "example": "全部で十人です。 (Zenbu de juu-nin desu.) - There are ten people in total."
+    },
+    {
+      "id": "word057",
+      "word": "少ない",
+      "pronunciation": "sukunai",
+      "meaning": "few, little",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "when_to_say": "Used to describe a small number or quantity.",
+      "example": "学生は少ないです。 (Gakusei wa sukunai desu.) - There are few students."
+    },
+    {
+      "id": "word058",
+      "word": "多い",
+      "pronunciation": "ooi",
+      "meaning": "many, numerous",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "when_to_say": "Used to describe a large number or quantity.",
+      "example": "人が多いです。 (Hito ga ooi desu.) - There are many people."
+    },
+    {
+      "id": "word059",
+      "word": "次",
+      "pronunciation": "tsugi",
+      "meaning": "next",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to the next in sequence.",
+      "example": "次は何ですか？ (Tsugi wa nan desu ka?) - What is next?"
+    },
+    {
+      "id": "word060",
+      "word": "一番",
+      "pronunciation": "ichiban",
+      "meaning": "number one, best",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to the best or first in a series.",
+      "example": "彼は一番早いです。 (Kare wa ichiban hayai desu.) - He is the fastest."
+    }
+  ],
+  "lesson4": [
+    {
+      "id": "word061",
+      "word": "食べる",
+      "pronunciation": "taberu",
+      "meaning": "to eat",
+      "part_of_speech": "verb",
+      "difficulty": "medium",
+      "when_to_say": "Used when referring to the action of eating.",
+      "example": "私はご飯を食べます。 (Watashi wa gohan o tabemasu.) - I eat rice."
+    },
+    {
+      "id": "word062",
+      "word": "飲む",
+      "pronunciation": "nomu",
+      "meaning": "to drink",
+      "part_of_speech": "verb",
+      "difficulty": "medium",
+      "when_to_say": "Used when referring to the action of drinking.",
+      "example": "水を飲みます。 (Mizu o nomimasu.) - I drink water."
+    },
+    {
+      "id": "word063",
+      "word": "おいしい",
+      "pronunciation": "oishii",
+      "meaning": "delicious",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "when_to_say": "Used to describe food that tastes good.",
+      "example": "このケーキはおいしいです。 (Kono kēki wa oishii desu.) - This cake is delicious."
+    },
+    {
+      "id": "word064",
+      "word": "ご飯",
+      "pronunciation": "gohan",
+      "meaning": "rice, meal",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to a meal or cooked rice in Japanese.",
+      "example": "ご飯を食べましたか？ (Gohan o tabemashita ka?) - Did you eat your meal?"
+    },
+    {
+      "id": "word065",
+      "word": "水",
+      "pronunciation": "mizu",
+      "meaning": "water",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to water in general.",
+      "example": "水が飲みたいです。 (Mizu ga nomitai desu.) - I want to drink water."
+    },
+    {
+      "id": "word066",
+      "word": "料理",
+      "pronunciation": "ryōri",
+      "meaning": "cooking, cuisine",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to cooking or a type of cuisine.",
+      "example": "日本料理が好きです。 (Nihon ryōri ga suki desu.) - I like Japanese cuisine."
+    },
+    {
+      "id": "word067",
+      "word": "レストラン",
+      "pronunciation": "resutoran",
+      "meaning": "restaurant",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to a place where meals are served.",
+      "example": "レストランに行きましょう。 (Resutoran ni ikimashou.) - Let's go to the restaurant."
+    },
+    {
+      "id": "word068",
+      "word": "食べ物",
+      "pronunciation": "tabemono",
+      "meaning": "food",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to food in general.",
+      "example": "食べ物を買いに行こう。 (Tabemono o kai ni ikou.) - Let's go buy food."
+    },
+    {
+      "id": "word069",
+      "word": "味",
+      "pronunciation": "aji",
+      "meaning": "taste",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to the taste of food or drink.",
+      "example": "このスープは味がいいです。 (Kono sūpu wa aji ga ii desu.) - This soup tastes good."
+    },
+    {
+      "id": "word070",
+      "word": "辛い",
+      "pronunciation": "karai",
+      "meaning": "spicy",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "when_to_say": "Used to describe food that is spicy.",
+      "example": "このカレーは辛いです。 (Kono karē wa karai desu.) - This curry is spicy."
+    },
+    {
+      "id": "word071",
+      "word": "甘い",
+      "pronunciation": "amai",
+      "meaning": "sweet",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "when_to_say": "Used to describe something sweet, usually food.",
+      "example": "このケーキは甘いです。 (Kono kēki wa amai desu.) - This cake is sweet."
+    },
+    {
+      "id": "word072",
+      "word": "飲み物",
+      "pronunciation": "nomimono",
+      "meaning": "drink",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to beverages or drinks.",
+      "example": "飲み物をください。 (Nomimono o kudasai.) - Please give me a drink."
+    },
+    {
+      "id": "word073",
+      "word": "サラダ",
+      "pronunciation": "sarada",
+      "meaning": "salad",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to a salad, usually a side dish.",
+      "example": "サラダを注文します。 (Sarada o chūmon shimasu.) - I'll order a salad."
+    },
+    {
+      "id": "word074",
+      "word": "お茶",
+      "pronunciation": "ocha",
+      "meaning": "tea",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to tea, commonly served in Japan.",
+      "example": "お茶を飲みます。 (Ocha o nomimasu.) - I drink tea."
+    },
+    {
+      "id": "word075",
+      "word": "ビール",
+      "pronunciation": "bīru",
+      "meaning": "beer",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to the alcoholic beverage beer.",
+      "example": "ビールを飲みます。 (Bīru o nomimasu.) - I drink beer."
+    },
+    {
+      "id": "word076",
+      "word": "寿司",
+      "pronunciation": "sushi",
+      "meaning": "sushi",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to sushi, a famous Japanese dish.",
+      "example": "寿司を食べます。 (Sushi o tabemasu.) - I eat sushi."
+    },
+    {
+      "id": "word077",
+      "word": "うどん",
+      "pronunciation": "udon",
+      "meaning": "udon (thick noodle dish)",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to udon, a type of Japanese noodle.",
+      "example": "うどんが好きです。 (Udon ga suki desu.) - I like udon."
+    },
+    {
+      "id": "word078",
+      "word": "ラーメン",
+      "pronunciation": "rāmen",
+      "meaning": "ramen (noodles)",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to ramen, a famous Japanese noodle dish.",
+      "example": "ラーメンが食べたいです。 (Rāmen ga tabetai desu.) - I want to eat ramen."
+    },
+    {
+      "id": "word079",
+      "word": "たこ焼き",
+      "pronunciation": "takoyaki",
+      "meaning": "takoyaki (octopus balls)",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to takoyaki, a popular Japanese snack.",
+      "example": "たこ焼きを食べます。 (Takoyaki o tabemasu.) - I eat takoyaki."
+    },
+    {
+      "id": "word080",
+      "word": "アイスクリーム",
+      "pronunciation": "aisukurīmu",
+      "meaning": "ice cream",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to ice cream, a popular dessert.",
+      "example": "アイスクリームを食べます。 (Aisukurīmu o tabemasu.) - I eat ice cream."
+    }
+  ],
+  "lesson5": [
+    {
+      "id": "word081",
+      "word": "右",
+      "pronunciation": "migi",
+      "meaning": "right",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to indicate the right side or direction.",
+      "example": "右に曲がってください。 (Migi ni magatte kudasai.) - Please turn right."
+    },
+    {
+      "id": "word082",
+      "word": "左",
+      "pronunciation": "hidari",
+      "meaning": "left",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to indicate the left side or direction.",
+      "example": "左に行ってください。 (Hidari ni itte kudasai.) - Please go left."
+    },
+    {
+      "id": "word083",
+      "word": "前",
+      "pronunciation": "mae",
+      "meaning": "front, ahead",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to indicate the front or forward direction.",
+      "example": "前に進んでください。 (Mae ni susunde kudasai.) - Please move forward."
+    },
+    {
+      "id": "word084",
+      "word": "後ろ",
+      "pronunciation": "ushiro",
+      "meaning": "back, behind",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to indicate the back or rear direction.",
+      "example": "後ろに座ってください。 (Ushiro ni suwatte kudasai.) - Please sit in the back."
+    },
+    {
+      "id": "word085",
+      "word": "近い",
+      "pronunciation": "chikai",
+      "meaning": "near",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "when_to_say": "Used to describe something that is near or close.",
+      "example": "駅は近いです。 (Eki wa chikai desu.) - The station is near."
+    },
+    {
+      "id": "word086",
+      "word": "遠い",
+      "pronunciation": "tōi",
+      "meaning": "far",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "when_to_say": "Used to describe something that is far away.",
+      "example": "学校は遠いです。 (Gakkō wa tōi desu.) - The school is far."
+    },
+    {
+      "id": "word087",
+      "word": "角",
+      "pronunciation": "kado",
+      "meaning": "corner",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to a street corner or edge.",
+      "example": "角を右に曲がってください。 (Kado o migi ni magatte kudasai.) - Please turn right at the corner."
+    },
+    {
+      "id": "word088",
+      "word": "交差点",
+      "pronunciation": "kōsaten",
+      "meaning": "intersection",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to an intersection where streets meet.",
+      "example": "交差点を渡ってください。 (Kōsaten o watatte kudasai.) - Please cross the intersection."
+    },
+    {
+      "id": "word089",
+      "word": "道",
+      "pronunciation": "michi",
+      "meaning": "road, street",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to a road or street.",
+      "example": "この道をまっすぐ行ってください。 (Kono michi o massugu itte kudasai.) - Please go straight down this road."
+    },
+    {
+      "id": "word090",
+      "word": "信号",
+      "pronunciation": "shingō",
+      "meaning": "traffic light",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to a traffic light.",
+      "example": "信号を待ってください。 (Shingō o matte kudasai.) - Please wait for the traffic light."
+    },
+    {
+      "id": "word091",
+      "word": "地図",
+      "pronunciation": "chizu",
+      "meaning": "map",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to a map for directions.",
+      "example": "地図を見てください。 (Chizu o mite kudasai.) - Please look at the map."
+    },
+    {
+      "id": "word092",
+      "word": "上",
+      "pronunciation": "ue",
+      "meaning": "up, above",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to indicate upward or above.",
+      "example": "上を見てください。 (Ue o mite kudasai.) - Please look up."
+    },
+    {
+      "id": "word093",
+      "word": "下",
+      "pronunciation": "shita",
+      "meaning": "down, below",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to indicate downward or below.",
+      "example": "下を見てください。 (Shita o mite kudasai.) - Please look down."
+    },
+    {
+      "id": "word094",
+      "word": "通り",
+      "pronunciation": "tōri",
+      "meaning": "street, avenue",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to a street or avenue.",
+      "example": "この通りを歩いてください。 (Kono tōri o aruite kudasai.) - Please walk down this street."
+    },
+    {
+      "id": "word095",
+      "word": "道路",
+      "pronunciation": "dōro",
+      "meaning": "road",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used to refer to a road, usually a larger one.",
+      "example": "道路を横断してください。 (Dōro o ōdan shite kudasai.) - Please cross the road."
+    },
+    {
+      "id": "word096",
+      "word": "右側",
+      "pronunciation": "migigawa",
+      "meaning": "right side",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to the right side of something.",
+      "example": "右側に座ってください。 (Migigawa ni suwatte kudasai.) - Please sit on the right side."
+    },
+    {
+      "id": "word097",
+      "word": "左側",
+      "pronunciation": "hidarigawa",
+      "meaning": "left side",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to the left side of something.",
+      "example": "左側に行ってください。 (Hidarigawa ni itte kudasai.) - Please go to the left side."
+    },
+    {
+      "id": "word098",
+      "word": "行き方",
+      "pronunciation": "ikikata",
+      "meaning": "way, direction",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Refers to the way or method of getting somewhere.",
+      "example": "行き方を教えてください。 (Ikikata o oshiete kudasai.) - Please tell me the way."
+    },
+    {
+      "id": "word099",
+      "word": "遠回り",
+      "pronunciation": "tōmawari",
+      "meaning": "detour",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "when_to_say": "Used when referring to a detour or longer route.",
+      "example": "遠回りをしないでください。 (Tōmawari o shinaide kudasai.) - Please don't take the detour."
+    },
+    {
+      "id": "word100",
+      "word": "進む",
+      "pronunciation": "susumu",
+      "meaning": "to go forward",
+      "part_of_speech": "verb",
+      "difficulty": "medium",
+      "when_to_say": "Used when referring to moving forward.",
+      "example": "前に進んでください。 (Mae ni susunde kudasai.) - Please move forward."
+    }
+  ],
+  "lesson6": [
+    {
+      "id": "word101",
+      "word": "電車",
+      "pronunciation": "densha",
+      "meaning": "train",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a train, the most common form of public transportation in Japan.",
+      "example": "電車で行きます。 (Densha de ikimasu.) - I will go by train."
+    },
+    {
+      "id": "word102",
+      "word": "切符",
+      "pronunciation": "kippu",
+      "meaning": "ticket",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a ticket for travel or admission.",
+      "example": "切符を買ってください。 (Kippu o katte kudasai.) - Please buy a ticket."
+    },
+    {
+      "id": "word103",
+      "word": "ホテル",
+      "pronunciation": "hoteru",
+      "meaning": "hotel",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a hotel for lodging.",
+      "example": "ホテルに泊まります。 (Hoteru ni tomarimasu.) - I will stay at the hotel."
+    },
+    {
+      "id": "word104",
+      "word": "空港",
+      "pronunciation": "kūkō",
+      "meaning": "airport",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to an airport.",
+      "example": "空港に着きました。 (Kūkō ni tsukimashita.) - I have arrived at the airport."
+    },
+    {
+      "id": "word105",
+      "word": "バス",
+      "pronunciation": "basu",
+      "meaning": "bus",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a bus, another common form of public transportation.",
+      "example": "バスに乗ります。 (Basu ni norimasu.) - I will take the bus."
+    },
+    {
+      "id": "word106",
+      "word": "タクシー",
+      "pronunciation": "takushī",
+      "meaning": "taxi",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a taxi.",
+      "example": "タクシーを呼んでください。 (Takushī o yonde kudasai.) - Please call a taxi."
+    },
+    {
+      "id": "word107",
+      "word": "飛行機",
+      "pronunciation": "hikōki",
+      "meaning": "airplane",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to an airplane.",
+      "example": "飛行機で行きます。 (Hikōki de ikimasu.) - I will go by airplane."
+    },
+    {
+      "id": "word108",
+      "word": "荷物",
+      "pronunciation": "nimotsu",
+      "meaning": "luggage, baggage",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to luggage or bags.",
+      "example": "荷物を預けてください。 (Nimotsu o azukete kudasai.) - Please check in your luggage."
+    },
+    {
+      "id": "word109",
+      "word": "パスポート",
+      "pronunciation": "pasupōto",
+      "meaning": "passport",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a passport for international travel.",
+      "example": "パスポートを見せてください。 (Pasupōto o misete kudasai.) - Please show your passport."
+    },
+    {
+      "id": "word110",
+      "word": "乗り換え",
+      "pronunciation": "norikae",
+      "meaning": "transfer (transportation)",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when changing from one mode of transportation to another.",
+      "example": "駅で乗り換えがあります。 (Eki de norikae ga arimasu.) - There is a transfer at the station."
+    },
+    {
+      "id": "word111",
+      "word": "出口",
+      "pronunciation": "deguchi",
+      "meaning": "exit",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to an exit or way out.",
+      "example": "出口はどこですか？ (Deguchi wa doko desu ka?) - Where is the exit?"
+    },
+    {
+      "id": "word112",
+      "word": "入国",
+      "pronunciation": "nyūkoku",
+      "meaning": "immigration",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to immigration at the border.",
+      "example": "入国審査を受けます。 (Nyūkoku shinsa o ukemasu.) - I will go through immigration inspection."
+    },
+    {
+      "id": "word113",
+      "word": "出国",
+      "pronunciation": "shukkoku",
+      "meaning": "exit from a country",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to exiting a country, usually at the airport.",
+      "example": "出国手続きはここです。 (Shukkoku tetsuzuki wa koko desu.) - The exit procedures are here."
+    },
+    {
+      "id": "word114",
+      "word": "予約",
+      "pronunciation": "yoyaku",
+      "meaning": "reservation",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a reservation for a hotel, flight, or restaurant.",
+      "example": "ホテルの予約をしています。 (Hoteru no yoyaku o shiteimasu.) - I have a reservation at the hotel."
+    },
+    {
+      "id": "word115",
+      "word": "観光",
+      "pronunciation": "kankō",
+      "meaning": "sightseeing",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to sightseeing or touring.",
+      "example": "観光地を訪れます。 (Kankōchi o otozuremasu.) - I will visit sightseeing spots."
+    },
+    {
+      "id": "word116",
+      "word": "地図",
+      "pronunciation": "chizu",
+      "meaning": "map",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a map for navigation.",
+      "example": "地図を持っていますか？ (Chizu o motteimasu ka?) - Do you have a map?"
+    },
+    {
+      "id": "word117",
+      "word": "両替",
+      "pronunciation": "ryōgae",
+      "meaning": "currency exchange",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to currency exchange.",
+      "example": "両替所はどこですか？ (Ryōgaesho wa doko desu ka?) - Where is the currency exchange office?"
+    },
+    {
+      "id": "word118",
+      "word": "お土産",
+      "pronunciation": "omiyage",
+      "meaning": "souvenir",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a gift or souvenir typically brought back from a trip.",
+      "example": "お土産を買いました。 (Omiyage o kaimashita.) - I bought souvenirs."
+    },
+    {
+      "id": "word119",
+      "word": "帰国",
+      "pronunciation": "kikoku",
+      "meaning": "return to one’s home country",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the act of returning to one’s home country.",
+      "example": "来週、帰国します。 (Raishū, kikoku shimasu.) - I will return to my country next week."
+    },
+    {
+      "id": "word120",
+      "word": "旅館",
+      "pronunciation": "ryokan",
+      "meaning": "traditional inn",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a traditional Japanese inn, often with tatami floors and futons.",
+      "example": "旅館に泊まりました。 (Ryokan ni tomarimashita.) - I stayed at a ryokan."
+    }
+  ],
+  "lesson7": [
+    {
+      "id": "word121",
+      "word": "時間",
+      "pronunciation": "jikan",
+      "meaning": "time",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to time, the concept of hours, or the duration of an event.",
+      "example": "今、時間ですか？ (Ima, jikan desu ka?) - What time is it now?"
+    },
+    {
+      "id": "word122",
+      "word": "今日",
+      "pronunciation": "kyou",
+      "meaning": "today",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the current day.",
+      "example": "今日は忙しいです。 (Kyou wa isogashii desu.) - I am busy today."
+    },
+    {
+      "id": "word123",
+      "word": "明日",
+      "pronunciation": "ashita",
+      "meaning": "tomorrow",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the day after today.",
+      "example": "明日は休みです。 (Ashita wa yasumi desu.) - Tomorrow is a holiday."
+    },
+    {
+      "id": "word124",
+      "word": "昨日",
+      "pronunciation": "kinou",
+      "meaning": "yesterday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the day before today.",
+      "example": "昨日は忙しかったです。 (Kinou wa isogashikatta desu.) - Yesterday was busy."
+    },
+    {
+      "id": "word125",
+      "word": "週末",
+      "pronunciation": "shuumatsu",
+      "meaning": "weekend",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the weekend, typically Saturday and Sunday.",
+      "example": "週末に旅行します。 (Shuumatsu ni ryokou shimasu.) - I will travel on the weekend."
+    },
+    {
+      "id": "word126",
+      "word": "月曜日",
+      "pronunciation": "getsuyoubi",
+      "meaning": "Monday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to Monday, the first day of the week.",
+      "example": "月曜日に会いましょう。 (Getsuyoubi ni aimashou.) - Let's meet on Monday."
+    },
+    {
+      "id": "word127",
+      "word": "火曜日",
+      "pronunciation": "kayoubi",
+      "meaning": "Tuesday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to Tuesday, the second day of the week.",
+      "example": "火曜日は空いています。 (Kayoubi wa aiteimasu.) - I am free on Tuesday."
+    },
+    {
+      "id": "word128",
+      "word": "水曜日",
+      "pronunciation": "suiyoubi",
+      "meaning": "Wednesday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to Wednesday, the third day of the week.",
+      "example": "水曜日は忙しいです。 (Suiyoubi wa isogashii desu.) - I am busy on Wednesday."
+    },
+    {
+      "id": "word129",
+      "word": "木曜日",
+      "pronunciation": "mokuyoubi",
+      "meaning": "Thursday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to Thursday, the fourth day of the week.",
+      "example": "木曜日に会いましょう。 (Mokuyoubi ni aimashou.) - Let's meet on Thursday."
+    },
+    {
+      "id": "word130",
+      "word": "金曜日",
+      "pronunciation": "kinyoubi",
+      "meaning": "Friday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to Friday, the fifth day of the week.",
+      "example": "金曜日にパーティーがあります。 (Kinyoubi ni paatii ga arimasu.) - There is a party on Friday."
+    },
+    {
+      "id": "word131",
+      "word": "土曜日",
+      "pronunciation": "doyoubi",
+      "meaning": "Saturday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to Saturday, the sixth day of the week.",
+      "example": "土曜日に買い物に行きます。 (Doyoubi ni kaimono ni ikimasu.) - I will go shopping on Saturday."
+    },
+    {
+      "id": "word132",
+      "word": "日曜日",
+      "pronunciation": "nichiyoubi",
+      "meaning": "Sunday",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to Sunday, the seventh day of the week.",
+      "example": "日曜日に休みます。 (Nichiyoubi ni yasumimasu.) - I will rest on Sunday."
+    },
+    {
+      "id": "word133",
+      "word": "午前",
+      "pronunciation": "gozen",
+      "meaning": "AM, morning",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the morning or AM time.",
+      "example": "午前9時に会いましょう。 (Gozen ku-ji ni aimashou.) - Let's meet at 9 AM."
+    },
+    {
+      "id": "word134",
+      "word": "午後",
+      "pronunciation": "gogo",
+      "meaning": "PM, afternoon",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the afternoon or PM time.",
+      "example": "午後3時に会いましょう。 (Gogo san-ji ni aimashou.) - Let's meet at 3 PM."
+    },
+    {
+      "id": "word135",
+      "word": "年",
+      "pronunciation": "nen",
+      "meaning": "year",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a year.",
+      "example": "今年は忙しい年です。 (Kotoshi wa isogashii toshi desu.) - This year is a busy year."
+    },
+    {
+      "id": "word136",
+      "word": "月",
+      "pronunciation": "tsuki",
+      "meaning": "month",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a month.",
+      "example": "来月は忙しいです。 (Raigetsu wa isogashii desu.) - Next month will be busy."
+    },
+    {
+      "id": "word137",
+      "word": "日",
+      "pronunciation": "hi",
+      "meaning": "day, date",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a day or date.",
+      "example": "今日は何日ですか？ (Kyou wa nannichi desu ka?) - What is today's date?"
+    },
+    {
+      "id": "word138",
+      "word": "週",
+      "pronunciation": "shuu",
+      "meaning": "week",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a week.",
+      "example": "今週は忙しいです。 (Konshuu wa isogashii desu.) - This week is busy."
+    },
+    {
+      "id": "word139",
+      "word": "長い",
+      "pronunciation": "nagai",
+      "meaning": "long",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe something that lasts a long time.",
+      "example": "長い時間待ちました。 (Nagai jikan machimashita.) - I waited for a long time."
+    },
+    {
+      "id": "word140",
+      "word": "短い",
+      "pronunciation": "mijikai",
+      "meaning": "short",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe something that lasts a short time.",
+      "example": "短い休憩を取りました。 (Mijikai kyuukei wo torimashita.) - I took a short break."
+    }
+  ],
+  "lesson8": [
+    {
+      "id": "word141",
+      "word": "買う",
+      "pronunciation": "kau",
+      "meaning": "to buy",
+      "part_of_speech": "verb",
+      "difficulty": "hard",
+      "when_to_say": "Used when purchasing something.",
+      "example": "何を買いますか？ (Nani o kaimasu ka?) - What will you buy?"
+    },
+    {
+      "id": "word142",
+      "word": "店",
+      "pronunciation": "mise",
+      "meaning": "store, shop",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a shop or store.",
+      "example": "近くに店がありますか？ (Chikaku ni mise ga arimasu ka?) - Is there a store nearby?"
+    },
+    {
+      "id": "word143",
+      "word": "値段",
+      "pronunciation": "nedan",
+      "meaning": "price",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to ask about the cost of something.",
+      "example": "値段はいくらですか？ (Nedan wa ikura desu ka?) - How much does it cost?"
+    },
+    {
+      "id": "word144",
+      "word": "安い",
+      "pronunciation": "yasui",
+      "meaning": "cheap",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe something inexpensive.",
+      "example": "この商品は安いです。 (Kono shouhin wa yasui desu.) - This product is cheap."
+    },
+    {
+      "id": "word145",
+      "word": "高い",
+      "pronunciation": "takai",
+      "meaning": "expensive",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe something costly.",
+      "example": "このバッグは高いです。 (Kono baggu wa takai desu.) - This bag is expensive."
+    },
+    {
+      "id": "word146",
+      "word": "クレジットカード",
+      "pronunciation": "kurejitto kaado",
+      "meaning": "credit card",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to talk about paying by credit card.",
+      "example": "クレジットカードで払えますか？ (Kurejitto kaado de haraemasu ka?) - Can I pay by credit card?"
+    },
+    {
+      "id": "word147",
+      "word": "現金",
+      "pronunciation": "genkin",
+      "meaning": "cash",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when referring to physical money.",
+      "example": "現金で払います。 (Genkin de haraimasu.) - I will pay in cash."
+    },
+    {
+      "id": "word148",
+      "word": "買い物",
+      "pronunciation": "kaimono",
+      "meaning": "shopping",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when talking about shopping in general.",
+      "example": "買い物に行きます。 (Kaimono ni ikimasu.) - I am going shopping."
+    },
+    {
+      "id": "word149",
+      "word": "セール",
+      "pronunciation": "seeru",
+      "meaning": "sale",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to discounted items.",
+      "example": "セール商品を見たいです。 (Seeru shouhin o mitai desu.) - I want to see sale items."
+    },
+    {
+      "id": "word150",
+      "word": "商品",
+      "pronunciation": "shouhin",
+      "meaning": "product",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to items for sale.",
+      "example": "新しい商品がありますか？ (Atarashii shouhin ga arimasu ka?) - Do you have new products?"
+    },
+    {
+      "id": "word151",
+      "word": "試着",
+      "pronunciation": "shichaku",
+      "meaning": "try on (clothes)",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when trying on clothes in a shop.",
+      "example": "試着できますか？ (Shichaku dekimasu ka?) - Can I try this on?"
+    },
+    {
+      "id": "word152",
+      "word": "レシート",
+      "pronunciation": "reshiito",
+      "meaning": "receipt",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when asking for or referring to a receipt.",
+      "example": "レシートをください。 (Reshiito o kudasai.) - Please give me the receipt."
+    },
+    {
+      "id": "word153",
+      "word": "割引",
+      "pronunciation": "waribiki",
+      "meaning": "discount",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to ask for or mention a discount.",
+      "example": "割引はありますか？ (Waribiki wa arimasu ka?) - Is there a discount?"
+    },
+    {
+      "id": "word154",
+      "word": "サイズ",
+      "pronunciation": "saizu",
+      "meaning": "size",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to ask about the size of an item.",
+      "example": "このサイズはありますか？ (Kono saizu wa arimasu ka?) - Do you have this size?"
+    },
+    {
+      "id": "word155",
+      "word": "返品",
+      "pronunciation": "henpin",
+      "meaning": "return (item)",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when returning a purchased item.",
+      "example": "返品できますか？ (Henpin dekimasu ka?) - Can I return this?"
+    },
+    {
+      "id": "word156",
+      "word": "ポイントカード",
+      "pronunciation": "pointo kaado",
+      "meaning": "point card",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to ask about or mention loyalty cards.",
+      "example": "ポイントカードは使えますか？ (Pointo kaado wa tsukaemasu ka?) - Can I use my point card?"
+    },
+    {
+      "id": "word157",
+      "word": "棚",
+      "pronunciation": "tana",
+      "meaning": "shelf",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe the location of items in a store.",
+      "example": "この棚には何がありますか？ (Kono tana ni wa nani ga arimasu ka?) - What is on this shelf?"
+    },
+    {
+      "id": "word158",
+      "word": "おつり",
+      "pronunciation": "otsuri",
+      "meaning": "change (money)",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to change given after a payment.",
+      "example": "おつりを忘れないでください。 (Otsuri o wasurenaide kudasai.) - Please don’t forget your change."
+    },
+    {
+      "id": "word159",
+      "word": "レジ",
+      "pronunciation": "reji",
+      "meaning": "cash register",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the checkout area.",
+      "example": "レジはどこですか？ (Reji wa doko desu ka?) - Where is the cash register?"
+    },
+    {
+      "id": "word160",
+      "word": "包装",
+      "pronunciation": "housou",
+      "meaning": "wrapping, packaging",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to ask for gift wrapping or packaging.",
+      "example": "包装してください。 (Housou shite kudasai.) - Please wrap this."
+    }
+  ],
+  "lesson9": [
+    {
+      "id": "word161",
+      "word": "仕事",
+      "pronunciation": "shigoto",
+      "meaning": "work, job",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to talk about one's occupation or tasks.",
+      "example": "仕事はどうですか？ (Shigoto wa dou desu ka?) - How is your job?"
+    },
+    {
+      "id": "word162",
+      "word": "会議",
+      "pronunciation": "kaigi",
+      "meaning": "meeting",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to business meetings.",
+      "example": "会議は何時ですか？ (Kaigi wa nanji desu ka?) - What time is the meeting?"
+    },
+    {
+      "id": "word163",
+      "word": "同僚",
+      "pronunciation": "douryou",
+      "meaning": "colleague",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to people you work with.",
+      "example": "同僚と一緒に昼食を食べます。 (Douryou to issho ni chuushoku o tabemasu.) - I eat lunch with my colleagues."
+    },
+    {
+      "id": "word164",
+      "word": "上司",
+      "pronunciation": "joushi",
+      "meaning": "boss, supervisor",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to one's superior at work.",
+      "example": "上司に報告します。 (Joushi ni houkoku shimasu.) - I will report to my boss."
+    },
+    {
+      "id": "word165",
+      "word": "部下",
+      "pronunciation": "buka",
+      "meaning": "subordinate",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to someone working under you.",
+      "example": "部下に指示を出します。 (Buka ni shiji o dashimasu.) - I will give instructions to my subordinates."
+    },
+    {
+      "id": "word166",
+      "word": "書類",
+      "pronunciation": "shorui",
+      "meaning": "document",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to paperwork or official documents.",
+      "example": "書類を確認してください。 (Shorui o kakunin shite kudasai.) - Please check the documents."
+    },
+    {
+      "id": "word167",
+      "word": "締め切り",
+      "pronunciation": "shimekiri",
+      "meaning": "deadline",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to due dates for tasks or projects.",
+      "example": "締め切りはいつですか？ (Shimekiri wa itsu desu ka?) - When is the deadline?"
+    },
+    {
+      "id": "word168",
+      "word": "休憩",
+      "pronunciation": "kyuukei",
+      "meaning": "break, rest",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to talk about taking a short break.",
+      "example": "少し休憩しましょう。 (Sukoshi kyuukei shimashou.) - Let’s take a short break."
+    },
+    {
+      "id": "word169",
+      "word": "メール",
+      "pronunciation": "meeru",
+      "meaning": "email",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to electronic mail.",
+      "example": "メールを送りましたか？ (Meeru o okurimashita ka?) - Did you send the email?"
+    },
+    {
+      "id": "word170",
+      "word": "会話",
+      "pronunciation": "kaiwa",
+      "meaning": "conversation",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to talk about discussions or chats.",
+      "example": "会話を記録します。 (Kaiwa o kiroku shimasu.) - I will record the conversation."
+    },
+    {
+      "id": "word171",
+      "word": "プロジェクト",
+      "pronunciation": "purojekuto",
+      "meaning": "project",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to a specific task or work initiative.",
+      "example": "新しいプロジェクトを始めます。 (Atarashii purojekuto o hajimemasu.) - I am starting a new project."
+    },
+    {
+      "id": "word172",
+      "word": "アポイント",
+      "pronunciation": "apointo",
+      "meaning": "appointment",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to scheduled meetings or visits.",
+      "example": "アポイントを取ります。 (Apointo o torimasu.) - I will make an appointment."
+    },
+    {
+      "id": "word173",
+      "word": "日程",
+      "pronunciation": "nittei",
+      "meaning": "schedule",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to talk about a planned agenda.",
+      "example": "日程を調整します。 (Nittei o chousei shimasu.) - I will adjust the schedule."
+    },
+    {
+      "id": "word174",
+      "word": "連絡",
+      "pronunciation": "renraku",
+      "meaning": "contact, communication",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to keeping in touch with someone.",
+      "example": "後で連絡します。 (Ato de renraku shimasu.) - I will contact you later."
+    },
+    {
+      "id": "word175",
+      "word": "資料",
+      "pronunciation": "shiryou",
+      "meaning": "materials, data",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to documents for a task.",
+      "example": "資料を準備してください。 (Shiryou o junbi shite kudasai.) - Please prepare the materials."
+    },
+    {
+      "id": "word176",
+      "word": "受付",
+      "pronunciation": "uketsuke",
+      "meaning": "reception",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to the front desk or reception area.",
+      "example": "受付で名前を伝えます。 (Uketsuke de namae o tsutaemasu.) - I will give my name at the reception."
+    },
+    {
+      "id": "word177",
+      "word": "部署",
+      "pronunciation": "busho",
+      "meaning": "department",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to specific divisions in a company.",
+      "example": "私の部署は営業部です。 (Watashi no busho wa eigyoubu desu.) - My department is the sales department."
+    },
+    {
+      "id": "word178",
+      "word": "報告",
+      "pronunciation": "houkoku",
+      "meaning": "report",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to giving updates on a task.",
+      "example": "進捗を報告します。 (Shinchoku o houkoku shimasu.) - I will report on the progress."
+    },
+    {
+      "id": "word179",
+      "word": "会計",
+      "pronunciation": "kaikei",
+      "meaning": "accounting",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to financial tasks or departments.",
+      "example": "会計はどこですか？ (Kaikei wa doko desu ka?) - Where is accounting?"
+    },
+    {
+      "id": "word180",
+      "word": "提出",
+      "pronunciation": "teishutsu",
+      "meaning": "submission",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to handing in documents or tasks.",
+      "example": "レポートを提出します。 (Repooto o teishutsu shimasu.) - I will submit the report."
+    }
+  ],
+  "lesson10": [
+    {
+      "id": "word181",
+      "word": "助けて",
+      "pronunciation": "tasukete",
+      "meaning": "help me",
+      "part_of_speech": "expression",
+      "difficulty": "hard",
+      "when_to_say": "Used to call for help in emergencies.",
+      "example": "助けてください！ (Tasukete kudasai!) - Please help me!"
+    },
+    {
+      "id": "word182",
+      "word": "救急車",
+      "pronunciation": "kyuukyuu-sha",
+      "meaning": "ambulance",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to call for medical assistance.",
+      "example": "救急車を呼んでください。 (Kyuukyuu-sha o yonde kudasai.) - Please call an ambulance."
+    },
+    {
+      "id": "word183",
+      "word": "危ない",
+      "pronunciation": "abunai",
+      "meaning": "dangerous",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "when_to_say": "Used to warn of danger or risky situations.",
+      "example": "危ない！気をつけて！ (Abunai! Ki o tsukete!) - Danger! Be careful!"
+    },
+    {
+      "id": "word184",
+      "word": "火事",
+      "pronunciation": "kaji",
+      "meaning": "fire (disaster)",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe a fire emergency.",
+      "example": "火事だ！ (Kaji da!) - There's a fire!"
+    },
+    {
+      "id": "word185",
+      "word": "警察",
+      "pronunciation": "keisatsu",
+      "meaning": "police",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to law enforcement in emergencies.",
+      "example": "警察を呼んでください。 (Keisatsu o yonde kudasai.) - Please call the police."
+    },
+    {
+      "id": "word186",
+      "word": "地震",
+      "pronunciation": "jishin",
+      "meaning": "earthquake",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used during natural disaster situations.",
+      "example": "地震です！気をつけて！ (Jishin desu! Ki o tsukete!) - It’s an earthquake! Be careful!"
+    },
+    {
+      "id": "word187",
+      "word": "救助",
+      "pronunciation": "kyuujo",
+      "meaning": "rescue",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe rescue operations or assistance.",
+      "example": "救助を待っています。 (Kyuujo o matteimasu.) - I am waiting for rescue."
+    },
+    {
+      "id": "word188",
+      "word": "病院",
+      "pronunciation": "byouin",
+      "meaning": "hospital",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when seeking medical care.",
+      "example": "病院はどこですか？ (Byouin wa doko desu ka?) - Where is the hospital?"
+    },
+    {
+      "id": "word189",
+      "word": "道に迷いました",
+      "pronunciation": "michi ni mayoimashita",
+      "meaning": "I am lost",
+      "part_of_speech": "expression",
+      "difficulty": "hard",
+      "when_to_say": "Used when you are lost and need directions.",
+      "example": "道に迷いました。助けてください。 (Michi ni mayoimashita. Tasukete kudasai.) - I’m lost. Please help."
+    },
+    {
+      "id": "word190",
+      "word": "薬",
+      "pronunciation": "kusuri",
+      "meaning": "medicine",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when talking about or requesting medicine.",
+      "example": "薬が必要です。 (Kusuri ga hitsuyou desu.) - I need medicine."
+    },
+    {
+      "id": "word191",
+      "word": "迷子",
+      "pronunciation": "maigo",
+      "meaning": "lost child",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe a child who is lost.",
+      "example": "迷子を探しています。 (Maigo o sagashiteimasu.) - I’m looking for a lost child."
+    },
+    {
+      "id": "word192",
+      "word": "避難",
+      "pronunciation": "hinan",
+      "meaning": "evacuation",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used during emergencies requiring evacuation.",
+      "example": "避難場所はどこですか？ (Hinan basho wa doko desu ka?) - Where is the evacuation area?"
+    },
+    {
+      "id": "word193",
+      "word": "逃げて",
+      "pronunciation": "nigete",
+      "meaning": "run away",
+      "part_of_speech": "expression",
+      "difficulty": "hard",
+      "when_to_say": "Used to tell someone to escape or run away.",
+      "example": "危ない！逃げて！ (Abunai! Nigete!) - Danger! Run away!"
+    },
+    {
+      "id": "word194",
+      "word": "負傷者",
+      "pronunciation": "fushousha",
+      "meaning": "injured person",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to someone who is injured.",
+      "example": "負傷者を助けてください。 (Fushousha o tasukete kudasai.) - Please help the injured."
+    },
+    {
+      "id": "word195",
+      "word": "緊急",
+      "pronunciation": "kinkyuu",
+      "meaning": "emergency",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe urgent situations.",
+      "example": "緊急事態です！ (Kinkyuu jitai desu!) - It’s an emergency!"
+    },
+    {
+      "id": "word196",
+      "word": "危険",
+      "pronunciation": "kiken",
+      "meaning": "danger, risk",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to hazardous conditions.",
+      "example": "ここは危険です。 (Koko wa kiken desu.) - This place is dangerous."
+    },
+    {
+      "id": "word197",
+      "word": "電話",
+      "pronunciation": "denwa",
+      "meaning": "phone",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used when seeking to use a phone.",
+      "example": "電話を貸してください。 (Denwa o kashite kudasai.) - Please lend me a phone."
+    },
+    {
+      "id": "word198",
+      "word": "応急処置",
+      "pronunciation": "oukyuu shochi",
+      "meaning": "first aid",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to emergency medical care.",
+      "example": "応急処置が必要です。 (Oukyuu shochi ga hitsuyou desu.) - First aid is needed."
+    },
+    {
+      "id": "word199",
+      "word": "通報",
+      "pronunciation": "tsuuhou",
+      "meaning": "report (to authorities)",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to describe reporting emergencies to authorities.",
+      "example": "事件を通報します。 (Jiken o tsuuhou shimasu.) - I will report the incident."
+    },
+    {
+      "id": "word200",
+      "word": "避難所",
+      "pronunciation": "hinanjo",
+      "meaning": "shelter",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "when_to_say": "Used to refer to places for safety in emergencies.",
+      "example": "避難所に向かっています。 (Hinanjo ni mukatteimasu.) - I’m heading to the shelter."
+    }
+  ]
+}
